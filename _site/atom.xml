@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Forensik Digital</title>
+ <link href="http://192.168.56.118:4003/atom.xml" rel="self"/>
+ <id>http://192.168.56.118:4003</id>
+ <updated>2022-11-10T13:27:11-05:00</updated>
+ <author>
+   <name>Info UMMU Ternate</name>
+   <uri>https://infoummu.github.io</uri>
+   <email>elyas.uii14@gmail.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Tugas Forensik Digital - 19001</title>
+   <link href="http://192.168.56.118:4003/tugas-19001"/>
+   <id>http://192.168.56.118:4003/tugas-19001</id>
+   <updated>2022-10-06T00:00:00-04:00</updated>
+   <content type="html">&lt;h3 id=&quot;pengantar-cyber-crime&quot;&gt;Pengantar Cyber Crime&lt;/h3&gt; &lt;p&gt;Isi dengan Materi Pengantar seputar apa itu Cybercrime (Kira-kira 150 sampai 200 kata)&lt;/p&gt; &lt;h3 id=&quot;1-espionage&quot;&gt;1. Espionage&lt;/h3&gt; &lt;p&gt;Isi dengan Materi seputar apa itu &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Espionage&lt;/code&gt;, Kira-kira 150 sampai 200 kata (lebih dari 200 boleh tapi jangan sampai lebih dari 500 kata)&lt;/p&gt; &lt;h3 id=&quot;2-intellectual-property-theft&quot;&gt;2. Intellectual property theft&lt;/h3&gt; &lt;p&gt;Isi dengan Materi seputar apa itu &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Intellectual property theft&lt;/code&gt;, Kira-kira 150 sampai 200 kata (lebih dari 200 boleh tapi jangan sampai lebih dari 500 kata)&lt;/p&gt; &lt;h3 id=&quot;3-data-manipulation&quot;&gt;3. Data manipulation&lt;/h3&gt; &lt;p&gt;Isi dengan Materi seputar apa itu &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Data...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Kuliah FORENSIK DIGITAL</title>
+   <link href="http://192.168.56.118:4003/KuliahFD"/>
+   <id>http://192.168.56.118:4003/KuliahFD</id>
+   <updated>2022-10-06T00:00:00-04:00</updated>
+   <content type="html">&lt;h2 id=&quot;pengganti-pertemuan-empat-04---tugas&quot;&gt;PENGGANTI PERTEMUAN EMPAT 04 - TUGAS:&lt;/h2&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Status&lt;/td&gt; &lt;td&gt;: Online&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Waktu&lt;/td&gt; &lt;td&gt;: 03/11/2022&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Tema&lt;/td&gt; &lt;td&gt;: FORENSIK DIGITAL - Cybercrime&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Pertemuan&lt;/td&gt; &lt;td&gt;: Pertemuan Ke-4&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Untuk Pengganti Pertemuan ke-4, anda diminta untuk membuat materi tentang &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CYBERCRIME&lt;/code&gt; dengan ISI MATERI mengikuti POIN-POIN yang ada pada GAMBAR DIBAWAH !.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Tulis Materi dengan mengikuti format &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Markdown&lt;/code&gt; sesuai dengan file yang saya sharing berikut &lt;a href=&quot;reff/2022-11-11-tugas-NPM.md.txt&quot; target=&quot;_blank&quot;&gt;Isi Materi di File Ini&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Download atau Copy...</content>
+ </entry>
+
+ 
+
+</feed>
