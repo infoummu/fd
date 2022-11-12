@@ -20,7 +20,7 @@ header: All Post
 
 <ul>
 {% for post in site.posts %}
-        <li><a href="{{ post.url }}">{{ post.title }} </a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} [ {{ post.author }} ] </a></li>
     <!-- [{{ post.title }}]({{ post.title }}){:target="_blank"} -->
 
 {% endfor %}

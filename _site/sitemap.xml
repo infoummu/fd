@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://192.168.56.118:4003/KuliahFD</loc>
+<loc>http://192.168.56.118:4003/fd/KuliahFD</loc>
 <lastmod>2022-10-06T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://192.168.56.118:4003/tugas-19001</loc>
+<loc>http://192.168.56.118:4003/fd/tugas-19001</loc>
 <lastmod>2022-10-06T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://192.168.56.118:4003/404</loc>
+<loc>http://192.168.56.118:4003/fd/404</loc>
 </url>
 <url>
-<loc>http://192.168.56.118:4003/categories</loc>
+<loc>http://192.168.56.118:4003/fd/categories</loc>
 </url>
 <url>
-<loc>http://192.168.56.118:4003/</loc>
+<loc>http://192.168.56.118:4003/fd/</loc>
 </url>
 <url>
-<loc>http://192.168.56.118:4003/linkcolection</loc>
+<loc>http://192.168.56.118:4003/fd/linkcolection</loc>
 </url>
 <url>
-<loc>http://192.168.56.118:4003/me</loc>
+<loc>http://192.168.56.118:4003/fd/me</loc>
 </url>
 <url>
-<loc>http://192.168.56.118:4003/penelitian</loc>
+<loc>http://192.168.56.118:4003/fd/penelitian</loc>
 </url>
 </urlset>
