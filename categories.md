@@ -1,21 +1,9 @@
 ---
 layout: page
 title: All Post
-description: This page displays all posts.
+description: All Post Materi FD.
 header: All Post
 ---
-
-
-<!-- ### List Post V1 -->
-
-<!-- 
-{% for post in site.posts %}
-    {% if post.categories contains 'postcategory' %}
-    <h1>Do nothing</h1>
-    {% else %}
-    <h2>{{ post.title }}</h2>
-    {% endif %}
-{% endfor %} 
 
 
 <!-- 
@@ -24,44 +12,6 @@ FOR FD 2022
 *********************************************
 -->
 
-
-<!--  for post in site.posts reversed -->
-
-
-<!-- 
-*********************************************
-INI yang ORI (yang biasa dipakai) 
-*********************************************
--->
-<!-- <ul>
-{% for post in site.posts sort %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }} - {{ post.title }} [ {{ post.author }} ] </a></li>
-{% endfor %}
-</ul> -->
-
-
-<!-- 
-*********************************************
-EXPERIMENT 1 : OK dan COOL
-*********************************************
--->
-<!--
-<ul>
-    {% for post in site.posts sort %}
-        {% if post.title.size > 30 %}
-            <li>
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }} - {{ post.title }} [ {{ post.author }} ] : [{{ post.title.size }}]</a>
-            </li>
-        {% else %}
-            <li>
-                <a href="{{ post.url | prepend: site.baseurl }}">Masih Salah Penulisan Judul - [ {{ post.author }} ] : [{{ post.title.size }}]</a>
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
--->
-
-
 <!-- 
 *********************************************
 EXPERIMENT 2 : ??
@@ -69,23 +19,14 @@ EXPERIMENT 2 : ??
 -->
 <!-- { if post.title == "Cybercrime Forensik Digital -" } -->
 <ul>
-    {% for post in site.posts sort %}
+    {% for post in site.posts %}
         
-        {% if post.title contains "Cybercrime Forensik Digital -" %}
+        {% if post.title contains "Kuliah FORENSIK DIGITAL" or post.title contains "Cybercrime Forensik Digital  - 19000" or post.title contains "Hasil Tugas Pertemuan" %}
             <li>
                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }} - {{ post.title }} [ {{ post.author }} ] </a>
             </li>
-        {% else %}
-            {% if post.title contains "Kuliah FORENSIK DIGITAL" or post.title contains "Cybercrime Forensik Digital  - 19000" or post.title contains "Hasil Tugas Pertemuan 3 - FD" %}
-                <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }} - {{ post.title }} [ {{ post.author }} ] </a>
-                </li>
-            {% else %}
-                <li>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%-d %B %Y" }} - [ {{ post.author }} ] -> JUDUL masih SALAH </a>
-                </li>
-            {% endif %}
         {% endif %}
+
     {% endfor %}
 </ul>
 
