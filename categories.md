@@ -31,16 +31,18 @@ EXPERIMENT 2 : ??
     {% endfor %}
 </ul>
 
-***
 
-<ul>
-    <li><a href="#">Site URL : {{ site.url }}</a></li>
-    <li><a href="#">Site BaseURL : {{ site.baseurl }}</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}">SiteURL SiteBaseURL : {{ site.url }}{{ site.baseurl }}</a></li>
-    <li><a href="#">Title URL : {{ title.url }}</a></li>
-</ul>
+<!-- 
+    ***
+
+    <ul>
+        <li><a href="#">Site URL : {{ site.url }}</a></li>
+        <li><a href="#">Site BaseURL : {{ site.baseurl }}</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}">SiteURL SiteBaseURL : {{ site.url }}{{ site.baseurl }}</a></li>
+        <li><a href="#">Title URL : {{ title.url }}</a></li>
+    </ul>
+ -->
 
 
-***
 ***
 By: Ikhwan@fedora37.linux
