@@ -1,7 +1,7 @@
 ## contoh format file MARKDOWN, copy lengkap isi file/teks dan ikuti ARAHAN, setelah itu HAPUS BARIS INI
 ---
-title: UTS Forensik Digital - NPM
-category: UTS
+title: UAS Forensik Digital - NPM
+category: UAS
 author: NAMA_ANDA - NPM
 published: true
 ---

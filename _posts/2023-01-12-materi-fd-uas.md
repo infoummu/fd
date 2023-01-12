@@ -7,10 +7,10 @@ published: true
 
 |Status     | : Online                   |
 |Waktu      | : 13/01/2023               |
-|Tema       | : FORENSIK DIGITAL - UTS   |
+|Tema       | : FORENSIK DIGITAL - UAS   |
 
 
-### TUGAS dan ARAHAN UTS 
+### TUGAS dan ARAHAN UAS 
 #### 1. TUGAS 
 Tugas Pengganti UAS adalah, anda diminta untuk MEMILIH salah satu dari dua pilihan, yaitu: 
 1. <b>MENYUSUN SEBUAH ARTIKEL</b>, atau
@@ -35,8 +35,8 @@ Dengan MEMILIH salah satu TEMA/TOPIK dibawah ini:
 3. Ubah bagian `title` dan `author` yang ada dibagian pertama/atas dari file dengan NPM anda (Lima digit terakhir) dan isi NAMA_ANDA
 ```md
     ---
-    title: UTS Forensik Digital - NPM
-    category: UTS
+    title: UAS Forensik Digital - NPM
+    category: UAS
     author: NAMA_ANDA - NPM
     published: true
     ---
@@ -44,8 +44,8 @@ Dengan MEMILIH salah satu TEMA/TOPIK dibawah ini:
 Menjadi Seperti Dibawah ini
 ```md
     ---
-    title: UTS Forensik Digital - 19001
-    category: UTS
+    title: UAS Forensik Digital - 19001
+    category: UAS
     author: Ikhwan N. Elyas - 19001
     published: true
     ---
