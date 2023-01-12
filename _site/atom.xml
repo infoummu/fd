@@ -4,12 +4,22 @@
  <title>Forensik Digital</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2022-12-09T19:35:15-06:00</updated>
+ <updated>2023-01-12T15:22:43-06:00</updated>
  <author>
    <name>Info UMMU Ternate</name>
    <uri>https://infoummu.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Pengganti UAS Forensik Digital - FD</title>
+   <link href="http://0.0.0.0:4000/materi-fd-uas"/>
+   <id>http://0.0.0.0:4000/materi-fd-uas</id>
+   <updated>2023-01-12T00:00:00-06:00</updated>
+   <content type="html">&lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Status&lt;/td&gt; &lt;td&gt;: Online&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Waktu&lt;/td&gt; &lt;td&gt;: 13/01/2023&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Tema&lt;/td&gt; &lt;td&gt;: FORENSIK DIGITAL - UTS&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3 id=&quot;tugas-dan-arahan-uts&quot;&gt;TUGAS dan ARAHAN UTS&lt;/h3&gt; &lt;h4 id=&quot;1-tugas&quot;&gt;1. TUGAS&lt;/h4&gt; &lt;p&gt;Tugas Pengganti UAS adalah, anda diminta untuk MEMILIH salah satu dari dua pilihan, yaitu:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;b&gt;MENYUSUN SEBUAH ARTIKEL&lt;/b&gt;, atau&lt;/li&gt; &lt;li&gt;&lt;b&gt;MEMBUAT INFOGRAFIK.&lt;/b&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Dengan MEMILIH salah satu TEMA/TOPIK dibawah ini:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tema Pertama : &lt;b&gt;“Digital Forensik dan Tahapan-Tahapanya”&lt;/b&gt; &lt;ul&gt; &lt;li&gt;Jika anda memilih Tema ini, maka anda harus menyusun sebuah &lt;b&gt;ARTIKEL&lt;/b&gt; atau &lt;b&gt;INFOGRAFIK&lt;/b&gt; yang Menjelaskan tentang &lt;ul&gt; &lt;li&gt;Apa itu Forensik Digital ?,...</content>
+ </entry>
 
  
 
@@ -228,7 +238,7 @@
    <link href="http://0.0.0.0:4000/hasil-p4"/>
    <id>http://0.0.0.0:4000/hasil-p4</id>
    <updated>2022-11-17T00:00:00-06:00</updated>
-   <content type="html">&lt;ol&gt; &lt;li&gt;Berikut Merupakan Daftar Gambar Hasil Tugas Pertemuan Ke-3,&lt;/li&gt; &lt;li&gt;Yang Gambarnya Tidak Tampil berarti nama filenya masih ada yang salah, silahkan perbaiki !,&lt;/li&gt; &lt;li&gt;Yang Hasil Tugasnya Sama Persis Nilainya dibagi rata,&lt;/li&gt; &lt;li&gt;Bagi yang mau Memperbaiki Tugasnya dipersilahkan.&lt;/li&gt; &lt;/ol&gt; &lt;ul&gt; &lt;li&gt; &lt;a href=&quot;/fd//Tugas-19143&quot;&gt;18 November 2022 - Cybercrime Forensik Digital - 19143 [ Nurindah umasugi ] &lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/fd//Tugas-19075&quot;&gt;18 November 2022 - Cybercrime Forensik Digital - 19075 [ Siti elvia unab ] &lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/fd//Tugas-19006&quot;&gt;18 November 2022 - Cybercrime Forensik Digital - 19006 [ Nursianti putri umasugi ]...</content>
+   <content type="html">&lt;ol&gt; &lt;li&gt;Berikut Merupakan Daftar Gambar Hasil Tugas Pertemuan Ke-3,&lt;/li&gt; &lt;li&gt;Yang Gambarnya Tidak Tampil berarti nama filenya masih ada yang salah, silahkan perbaiki !,&lt;/li&gt; &lt;li&gt;Yang Hasil Tugasnya Sama Persis Nilainya dibagi rata,&lt;/li&gt; &lt;li&gt;Bagi yang mau Memperbaiki Tugasnya dipersilahkan.&lt;/li&gt; &lt;/ol&gt; &lt;ul&gt; &lt;li&gt; &lt;a href=&quot;/fd//Tugas-19143.html&quot;&gt;18 November 2022 - Cybercrime Forensik Digital - 19143 [ Nurindah umasugi ] &lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/fd//Tugas-19075.html&quot;&gt;18 November 2022 - Cybercrime Forensik Digital - 19075 [ Siti elvia unab ] &lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/fd//Tugas-19006.html&quot;&gt;18 November 2022 - Cybercrime Forensik Digital - 19006 [ Nursianti putri umasugi ]...</content>
  </entry>
 
  
@@ -297,16 +307,6 @@
    <title>Cybercrime Forensik Digital - 19111</title>
    <link href="http://0.0.0.0:4000/p4-19111"/>
    <id>http://0.0.0.0:4000/p4-19111</id>
-   <updated>2022-11-16T00:00:00-06:00</updated>
-   <content type="html">&lt;h3 id=&quot;pengantar-cyber-crime&quot;&gt;Pengantar Cyber Crime&lt;/h3&gt; &lt;p&gt;Apa Itu Cyber Crime? Menurut Organization of European Community Development (OECD) cyber crime adalah semua bentuk akses ilegal terhadap suatu transmisi data. Itu artinya, semua bentuk kegiatan yang tidak sah dalam suatu sistem komputer termasuk dalam tindak kejahatan. Secara umum, pengertian cyber crime biasa diartikan sebagai tindak kejahatan di ranah dunia maya yang memanfaatkan teknologi komputer dan jaringan internet sebagai sasaran. Seperti apa yang telah disebutkan, tindakan cyber crime ini muncul seiring dengan kian gencarnya teknologi digital, komunikasi dan informasi yang semakin canggih.&lt;/p&gt; &lt;p&gt;Contoh Kejahatan Cyber...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Cybercrime Forensik Digital - 19108</title>
-   <link href="http://0.0.0.0:4000/p4-19108"/>
-   <id>http://0.0.0.0:4000/p4-19108</id>
    <updated>2022-11-16T00:00:00-06:00</updated>
    <content type="html">&lt;h3 id=&quot;pengantar-cyber-crime&quot;&gt;Pengantar Cyber Crime&lt;/h3&gt; &lt;p&gt;Apa Itu Cyber Crime? Menurut Organization of European Community Development (OECD) cyber crime adalah semua bentuk akses ilegal terhadap suatu transmisi data. Itu artinya, semua bentuk kegiatan yang tidak sah dalam suatu sistem komputer termasuk dalam tindak kejahatan. Secara umum, pengertian cyber crime biasa diartikan sebagai tindak kejahatan di ranah dunia maya yang memanfaatkan teknologi komputer dan jaringan internet sebagai sasaran. Seperti apa yang telah disebutkan, tindakan cyber crime ini muncul seiring dengan kian gencarnya teknologi digital, komunikasi dan informasi yang semakin canggih.&lt;/p&gt; &lt;p&gt;Contoh Kejahatan Cyber...</content>
  </entry>

@@ -8,7 +8,7 @@
 	<meta name="generator" content="Jekyll">
 
 	<title>Forensik Digital</title>
-  <meta name="description" content="Halaman MK Forensik Digital">
+  	<meta name="description" content="Halaman MK Forensik Digital">
 
 	<!-- CSS & fonts -->
 	<link rel="stylesheet" href="/fd/css/main.css">
@@ -53,6 +53,133 @@
 <!-- End Jekyll SEO tag -->
 
 
+<!--
+***************************
+*** ADD DATE 16/12/2022 *** -->
+	<style>
+		.tree{
+			--spacing : 1.5rem;
+			--radius  : 10px;
+		}
+
+		.tree li{
+			display      : block;
+			position     : relative;
+			padding-left : calc(2 * var(--spacing) - var(--radius) - 2px);
+		}
+
+		.tree ul{
+			margin-left  : calc(var(--radius) - var(--spacing));
+			padding-left : 0;
+		}
+
+		.tree ul li{
+			border-left : 2px solid #ddd;
+		}
+
+		.tree ul li:last-child{
+		border-color : transparent;
+		}
+
+		.tree ul li::before{
+			content      : '';
+			display      : block;
+			position     : absolute;
+			top          : calc(var(--spacing) / -2);
+			left         : -2px;
+			width        : calc(var(--spacing) + 2px);
+			height       : calc(var(--spacing) + 1px);
+			border       : solid #ddd;
+			border-width : 0 0 2px 2px;
+		}
+
+		.tree summary{
+			display : block;
+			cursor  : pointer;
+		}
+
+		.tree summary::marker,
+		.tree summary::-webkit-details-marker{
+			display : none;
+		}
+
+		.tree summary:focus{
+			outline : none;
+		}
+
+		.tree summary:focus-visible{
+			outline : 1px dotted #000;
+		}
+
+		.tree li::after,
+		.tree summary::before{
+			content       : '';
+			display       : block;
+			position      : absolute;
+			top           : calc(var(--spacing) / 2 - var(--radius));
+			left          : calc(var(--spacing) - var(--radius) - 1px);
+			width         : calc(2 * var(--radius));
+			height        : calc(2 * var(--radius));
+			border-radius : 50%;
+			background    : #ddd;
+		}
+
+		.tree summary::before{
+			content     : '+';
+			z-index     : 1;
+			background  : #696;
+			color       : #fff;
+			line-height : calc(2 * var(--radius) - 2px);
+			text-align  : center;
+		}
+
+		.tree details[open] > summary::before{
+			content : '-';
+			background  : grey;
+			color       : #fff;
+		}
+
+		/* ************** */
+		/* ************** */
+
+		details {
+			font: 16px "Open Sans", Calibri, sans-serif;
+			/* width: 620px; */
+		}
+
+		details > summary {
+			padding: 2px 4px;
+			width: 25em;
+			/* background-color: rgb(238, 235, 235); */
+			border: none;
+			/* box-shadow: 3px 3px 4px black; */
+			cursor: pointer auto;
+			font: 18px "Open Sans", Calibri, sans-serif;
+			margin: 0;
+			font-weight: bolder;
+		}
+
+		details > p {
+			border-radius: 0 0 10px 10px;
+			/* background-color: rgb(255, 255, 255); */
+			padding: 6px 8px;
+			margin: 0;
+			/* box-shadow: 3px 3px 4px black; */
+		}
+
+		/* details[open] > summary {
+			background-color: rgb(255, 255, 255);
+		} */
+
+		img {
+			margin-left  : 8px; /* calc(var(--radius) - var(--spacing)); */
+			/* padding-left : 10px; */
+			/* border: dotted grey; */
+		}
+	</style>
+<!--
+***************************
+*** ADD DATE 16/12/2022 *** -->
 </head>
 
 
@@ -96,6 +223,8 @@
 	  
 	    
 	      <a href="/fd//penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
 	    
 	  
 	    
@@ -240,6 +369,15 @@
 	
 
 	  <li class="post">
+	  	<h3><a href="/fd//materi-fd-uas.html">Pengganti UAS Forensik Digital - FD</a></h3>
+      	<time datetime="2023-01-12T00:00:00-06:00" class="by-line"> Halaman Materi  | <i>12 Jan 2023</i> </time> 
+<!--		<time datetime="" class="by-line"> <i></i> | Halaman Materi</time> -->
+	  	 <p>Status : Online Waktu : 13/01/2023 Tema : FORENSIK DIGITAL - UTS TUGAS dan ARAHAN UTS 1. TUGAS Tugas Pengganti UAS adalah, anda diminta untuk MEMILIH salah satu dari dua pilihan, yaitu: MENYUSUN SEBUAH ARTIKEL, atau MEMBUAT INFOGRAFIK. Dengan MEMILIH salah satu TEMA/TOPIK dibawah ini: Tema Pertama : “Digital Forensik dan Tahapan-Tahapanya” Jika anda memilih Tema ini, maka anda harus...</p> 
+	  </li>
+
+    
+
+	  <li class="post">
 	  	<h3><a href="/fd//Tugas-19143.html">Cybercrime Forensik Digital - 19143</a></h3>
       	<time datetime="2022-11-18T00:00:00-06:00" class="by-line"> Tugas P4  | <i>18 Nov 2022</i> </time> 
 <!--		<time datetime="" class="by-line"> <i></i> | Tugas P4</time> -->
@@ -300,15 +438,6 @@
 	  	 <p>##Cybercrime Forensik Digital-19113 17 November 2022 I Nofita Ridwan Pengantar Cyber Crime Cyber crime, atau kejahatan di dunia maya, adalah jenis kejahatan yang dilakukan melalui komputer dan jaringan. Komputer sendiri merupakan alat utama untuk melakukan cyber crime ini, tetapi seringkali komputer juga dijadikan sebagai target dari kejatahan ini. Biasanya, cyber crime membahayakan seseorang karena pencurian data hingga keuangan Ada banyak...</p> 
 	  </li>
 
-    
-
-	  <li class="post">
-	  	<h3><a href="/fd//tugas-19072.html">Cybercrime Forensik Digital - 19072</a></h3>
-      	<time datetime="2022-11-17T00:00:00-06:00" class="by-line"> Tugas P4  | <i>17 Nov 2022</i> </time> 
-<!--		<time datetime="" class="by-line"> <i></i> | Tugas P4</time> -->
-	  	 <p>##Cybercrime Forensik Digital-19072 17 November 2022 I Ahmad Raihan La Gia Pengantar Cyber Crime Cyber crime, atau kejahatan di dunia maya, adalah jenis kejahatan yang dilakukan melalui komputer dan jaringan. Komputer sendiri merupakan alat utama untuk melakukan cyber crime ini, tetapi seringkali komputer juga dijadikan sebagai target dari kejatahan ini. Biasanya, cyber crime membahayakan seseorang karena pencurian data hingga keuangan....</p> 
-	  </li>
-
      
 
 
@@ -332,7 +461,7 @@ Other Post --> <a href="categories.html" title="tes....">Archive All Posts</a> .
 	    <!-- Footer -->
 	    <footer>
 
-	<span>© 2022</span> 
+	<span>© 2023</span> 
 	<span>
 		<a href="http://0.0.0.0:4000/">ForensikDigital</a> | 
 		<a href="https://github.com/infoummu/infoummu.github.io" target="_blank">github</a> 
