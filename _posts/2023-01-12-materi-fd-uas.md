@@ -11,6 +11,9 @@ published: true
 
 
 ### TUGAS dan ARAHAN UAS 
+
+* **PESAN DARI PRODI** : "Tanda Tangan Berita Acara Harus Stor Slip/kuitansi Pembayaran LAB ke Pak Haris sebelum TTD BA"
+
 #### 1. TUGAS 
 Tugas Pengganti UAS adalah, anda diminta untuk MEMILIH salah satu dari dua pilihan, yaitu: 
 1. <b>MENYUSUN SEBUAH ARTIKEL</b>, atau
