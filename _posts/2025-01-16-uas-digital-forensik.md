@@ -85,7 +85,7 @@ Susun laporan praktikum dengan struktur berikut:
 
 ### **7. Pengumpulan**  
 - Laporan dikumpulkan melalui **Google Drive** mata kuliah Forensik Digital, Link berikut: [**UAS Forensik Digital**](https://drive.google.com/drive/folders/1ivL7J1F3Jhw2AUwMFi7FTdADpf_UBcAX?usp=drive_link){:target="_blank"}
-- Tanggal 20 Januari 2025 pagi Sudah Harus Terkumpul, **segaligus bisa TTD Berita Acara**
+- Tanggal 20 Januari 2025 pagi Sudah Harus Terkumpul, **sekaligus bisa TTD Berita Acara**
 
 
 ---
