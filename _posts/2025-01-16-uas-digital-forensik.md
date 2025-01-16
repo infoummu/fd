@@ -6,7 +6,7 @@ published: true
 description: UAS Mata Kuliah Forensik Digital, yaitu membuat laporan dari hasil praktikum dari tool forensik yang dipilih, harapannya Mahasiswa mampu memahami dan mempraktikkan penggunaan salah satu tool forensik, dapat menyusun laporan yang terstruktur dan mampu mengevaluasi kelebian dan kekurangan tool forensik yang digunakan.
 ---
 
-
+* **BACA DULU SAMPAI SELESAI, BARU BERTANYA !**
 
 ## **UAS berupa Tugas Forensik Digital**  
 **Topik**: Membuat Laporan Hasil Praktikum Mandiri Menggunakan Salah Satu Tool Forensik  
