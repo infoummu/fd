@@ -1,6 +1,6 @@
 ---
 title: Pengganti UAS Forensik Digital - FD
-author: Ikhwan N. Elyas - 19000
+author: Ikhwan N. Elyas
 category: Halaman Materi
 published: true
 ---

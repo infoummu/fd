@@ -18,3 +18,13 @@ _book
 Gemfile
 Gemfile.lock
 file_exclude_rsync.txt
+
+# add from me : infoummu
+._site/
+*_site/
+**_site/
+_site/
+_site/**
+_site/*.*
+._site/**
+
